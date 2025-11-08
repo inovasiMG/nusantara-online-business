@@ -1,18 +1,38 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
-<html>
-<head>
-<META http-equiv=Content-Type content="text/html; charset=UTF-8">
-<title>Exported from Notepad++</title>
-<style type="text/css">
-span {
-	font-family: 'Courier New';
-	font-size: 10pt;
-	color: #000000;
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  background-color: #fdfdfd;
+  color: #222;
 }
-.sc0 {
+
+header.hero {
+  text-align: center;
+  background-color: #fff3cd;
+  padding: 20px;
+  border-bottom: 2px solid #ffc107;
 }
-</style>
-</head>
-<body>
-<div style="float: left; white-space: pre; line-height: 1; background: #FFFFFF; "><span class="sc0">style.css</span></div></body>
-</html>
+
+.hero-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #ff8c00;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #222;
+  color: white;
+}
